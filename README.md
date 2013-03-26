@@ -1,4 +1,5 @@
 r-dailyprogrammer
 =================
 
-r/dailyprogrammer challenges
+daily programming challenges from
+http://www.reddit.com/r/dailyprogrammer/
