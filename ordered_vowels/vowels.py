@@ -14,6 +14,7 @@ for word in f:
                 test = False
         if test: print word 
         test = True
+f.close()
 
 print "finished in: %.2f sec" % float(time.time() - t)
                 
